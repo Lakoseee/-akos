@@ -1,5 +1,5 @@
 #include "snake.h"
-#include <cstddef> // Add this header for size_t
+#include <cstddef> // Dodane dla size_t
 
 Snake::Snake(int startX, int startY) : direction(1, 0) { // Początkowy ruch w prawo
     body.push_back({startX, startY});
