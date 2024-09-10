@@ -1,2 +1,2 @@
-# -akos
+Jakub Lakos
 Gra snake c++
